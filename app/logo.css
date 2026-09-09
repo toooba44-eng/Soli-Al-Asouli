@@ -1,11 +1,37 @@
-.site-header .logo{
-  width: 132px;
-  height: 68px;
-  flex: 0 0 132px;
-  display: block;
-  background: url('/soli-logo.webp') center/contain no-repeat;
+.site-header .logo,
+.footer-logo{
+  display:block;
+  background-image:url('/Soli-Al-Asouli/soli-logo.webp');
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:contain;
 }
-.site-header .logo > *{display:none!important}
+
+.site-header .logo{
+  width:132px;
+  height:68px;
+  flex:0 0 132px;
+}
+
+.site-header .logo > *,
+.footer-logo > *{display:none!important}
+
+.footer-logo{
+  width:170px;
+  height:118px;
+  margin-bottom:12px;
+  background-color:#fffaf4;
+  border-radius:16px;
+  padding:6px;
+}
+
+.mobile-menu-logo{
+  color:#5a1f2b;
+  border-right:3px solid #cf1020;
+  padding-right:12px;
+}
+
 @media(max-width:700px){
   .site-header .logo{width:106px;height:58px;flex-basis:106px}
+  .footer-logo{width:145px;height:100px}
 }
