@@ -23,6 +23,18 @@ export const metadata: Metadata = {
   description:
     "عطور، بخور، خمرة ودلكة ومنتجات سودانية بروح معاصرة. اكتشفي سولي العسولي، بيت حديث للريحة السودانية.",
   keywords: ["سولي العسولي", "عطور سودانية", "بخور", "خمرة", "دلكة", "الريحة السودانية"],
+  icons: {
+    icon: "/Soli-Al-Asouli/soli-logo.webp",
+    shortcut: "/Soli-Al-Asouli/soli-logo.webp",
+    apple: "/Soli-Al-Asouli/soli-logo.webp",
+  },
+  openGraph: {
+    title: "سولي العسولي",
+    description: "بيت حديث للريحة السودانية.",
+    images: ["/Soli-Al-Asouli/soli-logo.webp"],
+    locale: "ar_SA",
+    type: "website",
+  },
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
