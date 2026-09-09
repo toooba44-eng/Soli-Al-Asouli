@@ -1,0 +1,11 @@
+.site-header .logo{
+  width: 132px;
+  height: 68px;
+  flex: 0 0 132px;
+  display: block;
+  background: url('/soli-logo.webp') center/contain no-repeat;
+}
+.site-header .logo > *{display:none!important}
+@media(max-width:700px){
+  .site-header .logo{width:106px;height:58px;flex-basis:106px}
+}
