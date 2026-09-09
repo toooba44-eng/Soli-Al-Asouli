@@ -1,7 +1,7 @@
 .site-header .logo,
 .footer-logo{
   display:block;
-  background-image:url('/Soli-Al-Asouli/soli-logo.webp');
+  background-image:url('/Soli-Al-Asouli/soli-logo-final.svg');
   background-position:center;
   background-repeat:no-repeat;
   background-size:contain;
@@ -20,9 +20,9 @@
   width:170px;
   height:118px;
   margin-bottom:12px;
-  background-color:#fffaf4;
-  border-radius:16px;
-  padding:6px;
+  background-color:transparent;
+  border-radius:0;
+  padding:0;
 }
 
 .mobile-menu-logo{
