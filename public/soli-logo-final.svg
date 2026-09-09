@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" role="img" aria-labelledby="title desc">
+  <title id="title">SOOLI سولي</title>
+  <desc id="desc">شعار سولي بخلفية شفافة باللون الأحمر والأسود والذهبي</desc>
+  <g fill="none" fill-rule="evenodd">
+    <path d="M90 342 C290 520 475 600 626 598 C813 595 1013 471 1198 129 L1000 645 L925 645 L980 465 C843 581 714 643 615 643 C451 643 292 572 163 457 L294 645 L238 645 Z" fill="#EF0015"/>
+    <path d="M238 645 L330 913 L430 913 L329 645 Z" fill="#050505"/>
+    <path d="M925 645 L824 913 L924 913 L1016 645 Z" fill="#050505"/>
+    <path d="M330 913 L362 1128 L428 1090 L430 913 Z" fill="#EF0015"/>
+    <path d="M824 913 L806 1046 L870 1018 L924 913 Z" fill="#EF0015"/>
+    <path d="M288 689 L342 848 M313 681 L362 836 M969 689 L915 848 M944 681 L895 836" stroke="#FFD400" stroke-width="11" stroke-linecap="round"/>
+    <path d="M536 151 C558 187 557 218 536 246 C562 239 580 225 587 205 C599 231 597 257 581 281 C607 270 627 251 636 226 C649 250 648 278 631 305 C660 290 680 266 686 234 C722 295 712 359 661 407 C615 451 546 446 505 399 C466 354 468 291 507 247 C496 299 510 343 548 370 C584 396 627 393 659 362 C684 338 694 309 687 275 C670 307 646 327 615 336 C628 311 628 285 616 259 C600 287 577 304 547 310 C562 286 564 263 553 241 C536 262 514 277 487 284 C507 253 517 216 512 177 C528 193 537 211 536 231 C548 206 548 180 536 151 Z" fill="#050505"/>
+    <path d="M485 330 C505 376 553 407 609 407 C667 407 715 374 734 327 C744 387 720 436 674 465 C625 496 562 490 520 454 C478 418 463 369 485 330 Z" fill="#050505"/>
+    <text x="627" y="785" text-anchor="middle" fill="#FFD400" font-family="Arial, Helvetica, sans-serif" font-size="150" font-weight="500" letter-spacing="2">SOOLI</text>
+    <text x="627" y="940" text-anchor="middle" fill="#FFD400" font-family="Tahoma, Arial, sans-serif" font-size="142" font-weight="500">سولي</text>
+  </g>
+</svg>
