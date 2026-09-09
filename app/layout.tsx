@@ -24,14 +24,14 @@ export const metadata: Metadata = {
     "عطور، بخور، خمرة ودلكة ومنتجات سودانية بروح معاصرة. اكتشفي سولي العسولي، بيت حديث للريحة السودانية.",
   keywords: ["سولي العسولي", "عطور سودانية", "بخور", "خمرة", "دلكة", "الريحة السودانية"],
   icons: {
-    icon: "/Soli-Al-Asouli/soli-logo.webp",
-    shortcut: "/Soli-Al-Asouli/soli-logo.webp",
-    apple: "/Soli-Al-Asouli/soli-logo.webp",
+    icon: "/Soli-Al-Asouli/soli-logo-final.svg",
+    shortcut: "/Soli-Al-Asouli/soli-logo-final.svg",
+    apple: "/Soli-Al-Asouli/soli-logo-final.svg",
   },
   openGraph: {
     title: "سولي العسولي",
     description: "بيت حديث للريحة السودانية.",
-    images: ["/Soli-Al-Asouli/soli-logo.webp"],
+    images: ["/Soli-Al-Asouli/soli-logo-final.svg"],
     locale: "ar_SA",
     type: "website",
   },
