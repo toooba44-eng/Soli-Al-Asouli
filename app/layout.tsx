@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { IBM_Plex_Sans_Arabic, Tajawal } from "next/font/google";
 import "./globals.css";
+import "./logo.css";
 
 const heading = IBM_Plex_Sans_Arabic({
   subsets: ["arabic"],
