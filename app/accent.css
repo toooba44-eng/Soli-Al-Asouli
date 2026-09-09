@@ -1,0 +1,22 @@
+:root{--soli-burgundy:#5a1f2b;--soli-red:#cf1020;--soli-gold:#c49a5a;--soli-ivory:#f5efe6}
+
+/* Red is a secondary accent; burgundy remains the primary brand color. */
+.desktop-nav a:hover{color:var(--soli-red)}
+.desktop-nav a:after{background:linear-gradient(90deg,var(--soli-burgundy),var(--soli-red))}
+.cart-count{background:var(--soli-red)}
+.button.primary{box-shadow:inset 0 -2px 0 rgba(207,16,32,.28)}
+.button.primary:hover{outline:1px solid rgba(207,16,32,.35)}
+.badge{border:1px solid rgba(207,16,32,.18)}
+.product-card:hover .badge{color:var(--soli-red);border-color:rgba(207,16,32,.42)}
+.favorite.selected{background:var(--soli-burgundy);box-shadow:0 0 0 2px var(--soli-red)}
+.quick-add:hover,.checkout:hover{background:var(--soli-red)}
+.product-copy strong{position:relative}.product-copy strong:after{content:"";position:absolute;right:0;left:auto;bottom:-5px;width:16px;height:2px;border-radius:3px;background:var(--soli-red);opacity:.8}
+.ritual-item>span{color:var(--soli-red)}
+.step-line:before{background:var(--soli-red)}
+.text-link:hover{color:#fff}.text-link.dark:hover{color:var(--soli-red)}
+.social-heading a:hover{color:var(--soli-red)}
+.footer-grid>div:not(:first-child)>a:hover{color:#fff}.footer-grid>div:not(:first-child)>a:hover:before{content:"•";color:var(--soli-red);margin-left:6px}
+.newsletter button:hover{color:var(--soli-red)}
+.mobile-menu a:hover{color:var(--soli-red)}
+
+@media(max-width:650px){.mobile-tabs a:active,.mobile-tabs button:active{color:var(--soli-red)}}
